@@ -117,7 +117,3 @@ Developed by **Ummay Maimona Chaman** with two teammates as part of the **CSE423
 This project is open for **educational and personal use**.
 
 Feel free to contact me for any improvements or suggestions.   :) 
-
-
-```bash
-python race.py
